@@ -7,6 +7,6 @@ The most basic way I could think of to write a Sudoku solver is to start at the 
 
 This is a backtracking algorithm. The basic idea being that you incrementally build a solution and discard it once you realize that it’s not viable.
 
-Please have a look at it [here](solve-sudoku-game.netlify.app/)
+Please have a look at it [here](https://solve-sudoku-game.netlify.app/)
 - Get New Puzzle: This will reset the puzzle 
 - Solve: This will solve the Sudoku 
