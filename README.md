@@ -1,5 +1,7 @@
 # Sudoku Solver
 
+![heading](https://user-images.githubusercontent.com/84044828/179027802-1638dd84-4846-43d9-ada5-3ab2d4ce66fe.png)
+
 We’ve all played Sudoku. Maybe you enjoy it, or maybe you really don’t, but you feel offended by its incompleteness in the in-flight magazine. Either way, the puzzle must be solved! Sometimes you don’t want to bother, but just copying the solution is not very satisfying. However, it’s not really cheating if you write an app that does the heavy lifting, is it? That’s what we’re setting out to do today—write a Sudoku solver from scratch in JavaScript.
 
 ## Algorithm
